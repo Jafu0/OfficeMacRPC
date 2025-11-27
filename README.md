@@ -2,6 +2,9 @@
 
 A lightweight, native macOS menu bar application that displays your Microsoft Office (Word, Excel, PowerPoint) status on Discord.
 
+
+![OfficeRichPresence](assets/banner.jpg)
+
 ## Features
 
 - **Native macOS App**: Built with **Swift**.
