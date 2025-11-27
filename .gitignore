@@ -1,0 +1,25 @@
+# Build Artifacts
+office-rich-presence
+OfficeRichPresence.app/
+icon.icns
+*.o
+*.swiftmodule
+.DS_Store
+
+# Node
+node_modules/
+package-lock.json
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# Logs
+*.log
+
+# Docs
+ideas.md
+docs/
+
